@@ -16,3 +16,7 @@ python3
 python3.6
 wheel
 settings.py
+root_project/root_project/settings.pyc
+root_project/root_project/__init__.pyc
+root_project/root_project/urls.pyc
+root_project/root_project/wsgi.pyc
